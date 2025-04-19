@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fun with Formatting in HTML!</title>
+    </head>
+    <body>
+        <p><b>Bold text</b> is often used for <u>emphasis</u>.It's important to note that <i>italic text</i>can add a<br>
+        <small>subtle touch</small> to your writing. Using <mark> markedt text</mark> highlingts key points, making them<br>
+        stand out.<br>
+        </p>
+
+        <hr>
+
+        <p>As you continue reading, you'll notice that combining these elements creats a <br>
+        visually engaging experience. Remember, the key to good formatting is to use these<br>
+        feature <u> sparingly</u>. and <i>meaningfully</i>. Occasionally, <del>overusing</del> <u>approproately using<br></u>
+        these tags ensures the content remains clear and effective</p>
+
+
+    </body>
+</html>
