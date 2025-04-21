@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This text will appear in the browser tab.</title>
+    </head>
+    <body>
+        <h1>Sara's Love for Traditional Cooking</h1>
+        <p>Sara, a <b>Brooklyn, NY resdident </b>with roots in <i>Trinidad</i> and <em>Tobago,</em><br>
+        has a huge passion and interest on cooking. She leart her skills from her <br>
+        <ins>grandmother's guidance</ins>, instead of learning from a <del>club</del> 
+        <hr>
+        Her favourite dish to prepare is <u>doubles,</u> <mark>Trinidadian specialty </mark> of <br>
+        <small>fried dough</small> stuffed with <strong>curry chana</strong> and drizzled with tangy tamarind sauce.</p></body>
+    
+</html>
