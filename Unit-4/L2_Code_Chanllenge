@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+    <head>
+        <title>Sara's Traditional cooking skills</title>
+    </head>
+    <body>
+        <h1>Sara's Love for Traditional Cooking</h1>
+        <h3>Make a double</h3>
+        <ul>
+            <li>Order to make a double</li>
+                <ol>
+                   <li> Mix flour and water for dough.</li>
+                    <li>Fry dough until golden.</li>
+                    <li>Cook curry chana with spices.</li>
+                    <li>Top with tamarind sauce.</li>
+                </ol>
+            <li>Ingredients</li>
+                <ul>
+                    <li>Flour</li>
+                    <li>Chickenpeas</li>
+                    <li>Tamarind</li>
+                    <li>Curry powder</li>
+                </ul>
+        </ul>
+    </body>
+    
+</html>

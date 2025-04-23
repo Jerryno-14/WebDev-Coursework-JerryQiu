@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html >
+    <head>
+        <title>Sara's Traditional cooking skills</title>
+    </head>
+    <body>
+        <h1>Sara's profile picture</h1>
+       <img src ="https://vscodeedu.com/content/CI3s1u4otRnTRV44-nctNd7J8KglWCdDgryCR99zb8Y.png"
+       alt = "Client's profile" width = "400" height="400"/>      
+    </body>
+    
+</html>
