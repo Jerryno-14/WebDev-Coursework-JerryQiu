@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html >
+    <head>
+        <title>Sara's Traditional cooking skills</title>
+        <style>
+            .bright {
+            color: rgb(84, 63, 63);
+            font-size: 24px;
+            background-color: rgb(244, 215, 246);
+            }
+            img {
+            border-width: 5px;
+
+            border-style: solid;
+
+            border-color: rgb(255, 0, 115);
+
+            border-radius: 25px;
+
+            width: 200px;
+
+            height: 200px;
+        }
+            body {
+                background-image: url('VSCodeIcon.jpg');
+                background-size: cover;
+                background-position: center;
+            }
+            h1 {
+                color: rgb(255, 109, 11);
+            }
+            p {
+                color: rgb(0, 0, 0);
+                font-size: 14px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            ul{
+                color:rgb(4, 67, 45)
+            }
+        </style>
+    </head>
+    <body style="background-color:antiquewhite;">
+        
+        <h1>Sara's profile picture</h1>
+       <img src ="https://vscodeedu.com/content/CI3s1u4otRnTRV44-nctNd7J8KglWCdDgryCR99zb8Y.png"
+       alt = "Client's profile" width = "400" height="400"/>      
+       <h1>Sara's Love for Traditional Cooking</h1>
+       <h2>About Sara's Cooking</h2>
+       <div class ="bright">
+        <strong>Introduction</strong>
+       </div>
+       <p>
+           Sara, from <strong>Brooklyn, NY</strong>, with roots in <mark>Trinidad and Tobago</mark>, loves cooking <u>doubles</u>. <br>
+           She learned from her <em>grandmother</em> and uses <b>chickpeas</b> and <small>tamarind sauce</small>. <br>
+           <hr>
+           Her dishes bring <strong>family together</strong>!
+       </p>
+       <h3>Make a double</h3>
+       <ul>
+           <li style="list-style-type: square;">Order to make a double</li>
+               <ol>
+                  <li> Mix flour and water for dough.</li>
+                   <li>Fry dough until golden.</li>
+                   <li>Cook curry chana with spices.</li>
+                   <li>Top with tamarind sauce.</li>
+               </ol>
+           <li style="list-style-type: square;">Ingredients</li>
+               <ol>
+                   <li>Flour</li>
+                   <li>Chickenpeas</li>
+                   <li>Tamarind</li>
+                   <li>Curry powder</li>
+               </ol>
+       </ul>
+    </body>
+    
+</html>
