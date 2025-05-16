@@ -1,0 +1,42 @@
+div {
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    border: 4px solid rgb(237, 185, 226);
+    margin: 3%;
+}
+
+.bright {
+    color: rgb(84, 63, 63);
+    font-size: 24px;
+    background-color: rgb(244, 215, 246);
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(255, 0, 115);
+    border-radius: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    background-image: url('images/VSCodeIcon.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: rgb(255, 109, 11);
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    color: rgb(4, 67, 45);
+}
